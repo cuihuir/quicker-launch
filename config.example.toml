@@ -1,0 +1,14 @@
+# The application creates ~/.config/quick-launcher/config.toml when preferences
+# are saved. Use the native settings page for shortcut conflict checking.
+shortcut = "<Alt>space"
+default_mode = "apps"
+theme = "system"
+# Clipboard results; the complete application catalog is never truncated.
+max_results = 8
+# 0 hides recent apps; accepted range is 0–20.
+recent_apps_limit = 5
+history_limit = 100
+recording = true
+persist_history = true
+autostart = true
+recent_apps = []

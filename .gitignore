@@ -1,0 +1,12 @@
+/target/
+*.swp
+__pycache__/
+*.py[cod]
+.env
+.env.*
+/dist/
+# Local design context and Rust learning material.
+/PRODUCT.md
+/DESIGN.md
+/docs/rust-development.md
+
